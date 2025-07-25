@@ -12,6 +12,8 @@
 
 *MENTOR* : NEELA SANTHOSH
 
+---
+
 ## 📄 Description
 
 This Java program demonstrates basic **file handling operations**—**read**, **write**, and **modify**—using core Java I/O classes. Built as part of the CODTECH Internship Task-1, the script provides a clean and modular `FileHandler` class that interacts with text files, allowing users to perform file operations directly from the terminal.
